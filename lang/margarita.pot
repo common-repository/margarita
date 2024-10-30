@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-04T11:14:45-04:00\n"
+"POT-Creation-Date: 2016-11-04T11:14:45-04:00\n"
+
+#: margarita/includes/admin/glossary.php:21
+msgid "Margarita is a demo app showcasing basic capabilities of WP App Studio. Margarita can be implemented using FreeDev Development plan."
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Margarita."
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:26
+msgid "Basic Calculations"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:29
+msgid "Demonstrates basic calculations which can be used in FreeDev"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:30
+msgid "ID"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:31
+msgid " Being a unique identifier, it uniquely distinguishes each instance of Basic Calculation entity. ID does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:33
+msgid "Value 1"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:34
+msgid " Value 1 does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:36
+msgid "Value 2"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:37
+msgid " Value 2 does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:39
+msgid "Value 3"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:40
+msgid " Value 3 does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:42
+msgid "Total"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:43
+msgid "Sums up all values Total does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:45
+msgid "Deduction"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:46
+msgid "Sums up value 1 and value 2 then deducts value 3 from their total. Deduction does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:48
+msgid "Multiplication"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:49
+msgid "Multiplies all 3 values Multiplication does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:51
+msgid "Division"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:52
+msgid "Multiplies value 1 and value 2 then divides the total by value 3 Division does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:57
+msgid "Contacts"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:60
+msgid ""
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:61
+msgid "First Name"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:62
+msgid "Contact's first name First Name is a required field. First Name does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:64
+msgid "Last Name"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:65
+msgid "Contact's last name Last Name is a required field. Last Name does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:67
+msgid "Email"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:68
+msgid "Contact's email address Email is a required field. Being a unique identifier, it uniquely distinguishes each instance of Contact entity. Email does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:70
+msgid "Phone"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:71
+msgid "Contact's phone or mobile Phone does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:73
+msgid "Address"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:74
+msgid "Contact's mailing address. Address does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:76
+msgid "Contact Preference"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:77
+msgid "When would you like to be contacted? Contact Preference has a default value of <b>'afternoon'</b>.Contact Preference is displayed as a dropdown and has predefined values of: morning, afternoon, evening, night."
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:79
+msgid "Contact Files"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:80
+msgid " Contact Files does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:82
+msgid "Residence"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:83
+msgid "Is this address your residence? Residence does not have a default value. "
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:85
+msgid "Contact Category"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:87
+msgid " Contact Category accepts multiple values like tags"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:87
+msgid "Contact Category does not have a default value"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:87
+msgid "The following are the preset values for <b>Contact Category:</b>"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:87
+msgid "internal"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:87
+msgid "external"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:90
+msgid "Contact Tag"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid " Contact Tag accepts multiple values like tags"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid "Contact Tag does not have a default value"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid "The following are the preset values for <b>Contact Tag:</b>"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid "friend"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid "business"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid "family"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid "spouse"
+msgstr ""
+
+#: margarita/includes/admin/glossary.php:92
+msgid "child"
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:28
+msgid "Please enter and activate your <b>license keys</b>."
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:79
+msgid "Deactivate License"
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:83
+msgid "Activate License"
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:89
+msgid "Error:"
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:202
+#: margarita/includes/admin/license-functions.php:236
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:214
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:219
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:222
+msgid "Invalid license."
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:226
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:229
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: margarita/includes/admin/license-functions.php:233
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:24
+#: margarita/includes/admin/store-functions.php:47
+msgid "Browse All"
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:49
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:51
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:54
+msgid "To create your own plugin"
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:81
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:101
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:101
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: margarita/includes/admin/store-functions.php:126
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:239
+msgid "Contact's first name"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:251
+msgid "Contact's last name"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:263
+msgid "Contact's email address"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:277
+msgid "Contact's phone or mobile"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:289
+msgid "Contact's mailing address."
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:301
+msgid "When would you like to be contacted?"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:304
+msgid "Please Select"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:305
+msgid "morning"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:306
+msgid "afternoon"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:307
+msgid "evening"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:308
+msgid "night"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:332
+msgid "Is this address your residence?"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:400
+msgid "Sums up all values"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:414
+msgid "Sums up value 1 and value 2 then deducts value 3 from their total."
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:428
+msgid "Multiplies all 3 values"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:442
+msgid "Multiplies value 1 and value 2 then divides the total by value 3"
+msgstr ""
+
+#: margarita/includes/class-install-deactivate.php:468
+msgid "Contact Tags"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:236
+#: margarita/includes/entities/class-emd-basic-calcs.php:287
+msgid "Basic Calculation"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:237
+msgid "Add New"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:238
+msgid "Add New Basic Calculation"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:239
+msgid "Edit Basic Calculation"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:240
+msgid "New Basic Calculation"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:241
+msgid "All Basic Calculations"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:242
+msgid "View Basic Calculation"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:243
+msgid "Search Basic Calculations"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:244
+msgid "No Basic Calculations Found"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:245
+msgid "No Basic Calculations Found In Trash"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:292
+msgid "Basic Calculation Info"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-basic-calcs.php:344
+msgid "Operations"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:236
+#: margarita/includes/entities/class-emd-contact.php:415
+msgid "Contact"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:238
+msgid "Add New Contact"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:239
+msgid "Edit Contact"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:240
+msgid "New Contact"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:241
+msgid "All Contacts"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:242
+msgid "View Contact"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:243
+msgid "Search Contacts"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:244
+msgid "No Contacts Found"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:245
+msgid "No Contacts Found In Trash"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:281
+msgid "Search Contact Tags"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:282
+msgid "Popular Contact Tags"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:283
+#: margarita/includes/entities/class-emd-contact.php:328
+msgid "All"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:286
+msgid "Edit Contact Tag"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:287
+msgid "Update Contact Tag"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:288
+msgid "Add New Contact Tag"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:289
+msgid "Add New Contact Tag Name"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:290
+msgid "Seperate Contact Tags with commas"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:291
+msgid "Add or Remove Contact Tags"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:292
+msgid "Choose from the most used Contact Tags"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:326
+msgid "Search Contact Category"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:327
+msgid "Popular Contact Category"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:331
+msgid "Edit Contact Category"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:332
+msgid "Update Contact Category"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:333
+msgid "Add New Contact Category"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:334
+msgid "Add New Contact Category Name"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:335
+msgid "Seperate Contact Category with commas"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:336
+msgid "Add or Remove Contact Category"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:337
+msgid "Choose from the most used Contact Category"
+msgstr ""
+
+#: margarita/includes/entities/class-emd-contact.php:420
+msgid "Contact Info"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:55
+msgid "Hi, I noticed you just crossed the %d %s on Margarita - that's awesome!"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:56
+msgid "Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation."
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:57
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:62
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:64
+msgid "I already did"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:65
+#: margarita/includes/plugin-feedback-functions.php:68
+msgid "Maybe later"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:66
+msgid "I want to upgrade"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:87
+msgid "Docs"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:88
+msgid "Pro Version"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:108
+msgid "Settings"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:114
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:115
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:116
+msgid "Cancel"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:117
+msgid "Kindly tell us the reason so we can improve"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:119
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:120
+msgid "I found a better plugin"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:121
+msgid "I haven't found a feature that I need"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:122
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:123
+msgid "The plugin broke my site"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:124
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:125
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:126
+msgid "Other"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:127
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:128
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:139
+msgid "What's the plugin's name?"
+msgstr ""
+
+#: margarita/includes/plugin-feedback-functions.php:141
+msgid "What feature do you need?"
+msgstr ""
+
+#: margarita/includes/scripts.php:54
+msgid "Please enter a unique value."
+msgstr ""
+
+#: margarita/includes/scripts.php:55
+msgid "required"
+msgstr ""
+
+#: margarita/includes/scripts.php:71
+msgid "Taxonomy"
+msgstr ""
+
+#: margarita/margarita.php:76
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: margarita/margarita.php:210
+msgid "Margarita"
+msgstr ""
+
+#: margarita/margarita.php:214
+msgid "Glossary"
+msgstr ""
+
+#: margarita/margarita.php:219
+msgid "Add-Ons"
+msgstr ""
+
+#: margarita/margarita.php:223
+msgid "Designs"
+msgstr ""
+
+#: margarita/margarita.php:227
+msgid "Support"
+msgstr ""
+
+#: margarita/margarita.php:244
+msgid "Licenses"
+msgstr ""
